@@ -33,17 +33,3 @@ OPENAI_API_KEY=your_api_key_here PORT=3000
 - Request body: `{ "prompt": "Your blessing request here" }`
 - Response: JSON object with 3 blessings
 
-## Dependencies
-
-- express
-- dotenv
-- openai
-- cors
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
